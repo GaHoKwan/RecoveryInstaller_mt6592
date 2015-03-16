@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" android:versionName="1.0" package="com.main.recoveryinstaller"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:theme="@*android:style/Theme.Holo" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:debuggable="true">
+        <activity android:label="@string/title_activity_main" android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

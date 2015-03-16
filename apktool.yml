@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: RecoveryInstaller.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '15'
+packageInfo:
+  cur_package: com.main.recoveryinstaller
+  orig_package: com.main.recoveryinstaller
+compressionType: false

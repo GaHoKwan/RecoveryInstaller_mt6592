@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recovery工具箱</string>
+    <string name="install">安装</string>
+    <string name="title_activity_main">中兴青漾2恢复系统安装工具箱</string>
+    <string name="install_compelte">安装完毕</string>
+    <string name="no_root">你的设备还没开放系统root权限</string>
+    <string name="recovery">启动Recovery</string>
+</resources>
